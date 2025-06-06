@@ -76,6 +76,13 @@ color: var(--main-color);
     justify-content: center;
     align-items: center;
 }
+.logo-img {
+  height: 50px;     /* Adjust this value as needed */
+  width: auto;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
 .home-img img{
     margin-left: -10%;
     width: 28vw;
